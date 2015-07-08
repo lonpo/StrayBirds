@@ -91,8 +91,8 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: 掌心
-      url: http://www.zhanxin.info
+    - text: 乐微购
+      url: http://www.leweg.com
     - text: Jekyll
       url: http://jekyllrb.com
     - text: Jekyll Theme
@@ -109,7 +109,7 @@ customLinks:
 
 #comment config
 disqus:
-  config: false
+  config: true
   id: lonpo
 
 
@@ -120,8 +120,8 @@ baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: 金戈铁马
+description: 驾驭命运的舵是奋斗。不抱有一丝幻想，不放弃一点机会，不停止一日努力。
 theme: merlot
 disqusname: lonpo
 
